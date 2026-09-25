@@ -28,21 +28,32 @@ A premium sports nutrition pouch packaging concept featuring a bold black, elect
 
 ---
 
+### 🎲 Game & Retail Packaging
+
+Creative retail packaging designed to communicate the product clearly and create strong shelf presence.
+
+#### 🐻 WOMBAT! — Word Game Packaging
+
+![WOMBAT Word Game Packaging](./wombat-word-game-packaging/hero.jpg)
+
+A playful and energetic board game packaging concept developed for **WOMBAT!**, a fast-paced word combat game by FoxMind.
+
+The project combines character illustration, bold typography, colorful game assets and a distinctive retail packaging system.
+
+**Packaging:** Retail Game Box  
+**Category:** Board Game / Family Game  
+**Focus:** Packaging Design • Brand Identity • Character Illustration • Retail Presentation
+
+**[View WOMBAT Case Study →](./wombat-word-game-packaging/)**
+
+---
+
 ### 🧴 Skincare & Beauty Packaging
 
 Premium packaging systems for skincare and beauty products, including boxes, bottles and labels.
 
 **Focus:**  
 Brand consistency • Product presentation • Label hierarchy • Print-ready artwork
-
----
-
-### 🎲 Game & Retail Packaging
-
-Creative retail packaging designed to communicate the product clearly and stand out on the shelf.
-
-**Focus:**  
-Front-of-pack impact • Visual storytelling • Retail presentation • Mockups
 
 ---
 
@@ -108,7 +119,7 @@ Typography • Information hierarchy • Brand identity • Production specifica
 https://www.behance.net/GSandaru
 
 **LinkedIn:**  
-https://www.linkedin.com/in/sandaru-dissanayaka-40488359/
+https://www.linkedin.com/in/sandaru-dissanayake-40488359/
 
 **Instagram:**  
 https://www.instagram.com/gsandaru1/
