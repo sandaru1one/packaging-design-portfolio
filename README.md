@@ -10,21 +10,30 @@ My work combines strong visual communication, practical packaging structure and 
 
 ## ⭐ Selected Work
 
+### 💊 Supplement & Wellness Packaging
+
+Packaging design for supplements, wellness products and health-focused brands, with a focus on strong visual hierarchy, product communication and professional presentation.
+
+#### 💪 CAVENZA — Creatine Monohydrate Packaging
+
+![CAVENZA Creatine Monohydrate Packaging](./cavenza-creatine-packaging/hero.jpg)
+
+A premium sports nutrition pouch packaging concept featuring a bold black, electric-blue and metallic visual system.
+
+**Packaging:** Stand-Up Pouch  
+**Category:** Sports Nutrition / Supplement Packaging  
+**Focus:** Packaging Design • Brand Visual System • Front & Back Artwork
+
+**[View CAVENZA Case Study →](./cavenza-creatine-packaging/)**
+
+---
+
 ### 🧴 Skincare & Beauty Packaging
 
 Premium packaging systems for skincare and beauty products, including boxes, bottles and labels.
 
 **Focus:**  
 Brand consistency • Product presentation • Label hierarchy • Print-ready artwork
-
----
-
-### 💊 Supplement & Wellness Packaging
-
-Packaging design for supplements, wellness products and health-focused brands.
-
-**Focus:**  
-Clear information hierarchy • Product benefits • Regulatory content placement • Production artwork
 
 ---
 
@@ -110,10 +119,12 @@ https://www.instagram.com/gsandaru1/
 
 This repository showcases selected packaging design projects, creative explorations and production-focused artwork by Gayan Sandaruwan.
 
-More projects and detailed case studies will be added regularly.
+Detailed case studies will be added as the portfolio grows.
 
 ---
 
-### 📩 Available for Packaging Design Projects
+## 📩 Available for Packaging Design Projects
+
+Looking for professional packaging or label design?
 
 **Packaging • Labels • Boxes • Pouches • Mockups • Print-Ready Artwork**
