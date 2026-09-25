@@ -2,6 +2,8 @@
 
 ### Premium Supplement Pouch Packaging Concept
 
+![CAVENZA Hero](hero.jpg)
+
 A modern sports nutrition packaging concept designed for CAVENZA Nutrition.
 
 The design focuses on strong shelf visibility, bold typography, high contrast and a distinctive electric-blue visual system to create a premium and energetic supplement packaging identity.
@@ -13,7 +15,7 @@ The design focuses on strong shelf visibility, bold typography, high contrast an
 **Brand:** CAVENZA Nutrition  
 **Product:** Creatine Monohydrate  
 **Packaging:** Stand-Up Pouch  
-**Category:** Sports Nutrition / Supplement Packaging  
+**Category:** Sports Nutrition / Supplement Packaging
 
 ---
 
@@ -29,7 +31,19 @@ The design focuses on strong shelf visibility, bold typography, high contrast an
 
 ---
 
-## 🧩 Brand & Design System
+## 🖼️ Front Packaging Design
+
+![CAVENZA Front Packaging](front-packaging.jpg)
+
+The front packaging was designed to create immediate product recognition through oversized typography, strong contrast and a distinctive geometric graphic system.
+
+---
+
+## 🎨 Brand & Design System
+
+![CAVENZA Brand Design System](brand-design-system.jpg)
+
+The visual identity combines electric blue, matte black, white and metallic gray to create a strong and energetic sports nutrition aesthetic.
 
 ### Color Palette
 
@@ -45,15 +59,19 @@ The design focuses on strong shelf visibility, bold typography, high contrast an
 
 ---
 
-## 📐 Packaging Design
+## 📐 Packaging Artwork
 
-The packaging system includes front and back pouch artwork with a consistent visual language across product branding, product information and supporting graphic elements.
+![CAVENZA Packaging Artwork](packaging-artwork.jpg)
+
+The packaging artwork combines the brand identity, product information and supporting graphic elements into a consistent front-of-pack system.
 
 ---
 
-## 🖼️ Final Presentation
+## ⭐ Final Presentation
 
-The project includes realistic packaging mockups showing the final front and back pouch design.
+![CAVENZA Final Presentation](final-presentation.jpg)
+
+The final presentation showcases the front and back pouch artwork and demonstrates the complete packaging system.
 
 ---
 
@@ -82,6 +100,17 @@ The project includes realistic packaging mockups showing the final front and bac
 **Gayan Sandaruwan**  
 Packaging & Label Designer
 
-[Behance](https://www.behance.net/GSandaru)  
-[LinkedIn](https://www.linkedin.com/in/sandaru-dissanayaka-40488359/)  
-[Instagram](https://www.instagram.com/gsandaru1/)
+**Behance:**  
+https://www.behance.net/GSandaru
+
+**LinkedIn:**  
+https://www.linkedin.com/in/sandaru-dissanayaka-40488359/
+
+**Instagram:**  
+https://www.instagram.com/gsandaru1/
+
+---
+
+### 📩 Available for Packaging Design Projects
+
+**Packaging • Labels • Boxes • Pouches • Mockups • Print-Ready Artwork**
